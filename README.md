@@ -109,6 +109,8 @@ There are convenience methods for each log level:
 ###To Do
 - Add examples of some advanced use cases
 - Add additional log destination types
+- Add Colors to log types
+
 
 ###More
 
